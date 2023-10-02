@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Haptic VR glove](https://sites.google.com/view/ankur-bahadure/project-page)
 
-- 🌱 I’m currently learning **Next.jsa and Rust**
+- 🌱 I’m currently learning **Next.js and Rust**
 
 - 👯 I’m looking to collaborate on **New Open**
 
