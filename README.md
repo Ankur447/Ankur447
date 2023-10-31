@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ankurbahadure007@gmial.com**
 
-- ⚡ Fun fact **Naked man fears no pickpocket.**
+- ⚡ Fun fact - **Naked man fears no pickpocket.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
