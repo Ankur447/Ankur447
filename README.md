@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](google.com)
 
 <h1 align="center">Hi 👋, I'm Ankur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full-Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Haptic VR glove](https://github.com/LucidVR/lucidgloves)
 
-- 💬 Ask me about **React, AR/VR, Gaming**
+- 💬 Ask me about **React, AR/VR, Gaming, IOT, Fullstack development**
 
 - 📫 How to reach me **ankurbahadure007@gmial.com**
 
